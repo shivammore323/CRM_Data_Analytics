@@ -1,6 +1,8 @@
 # Salesforce_CRM_Data_Analytics
-Salesforce, Inc. is an American cloud-based software company headquartered in San Francisco, California. It provides customer relationship management software and applications focused on sales, customer service, marketing automation, analytics, and application development
+Salesforce, Inc. is an American cloud-based software company headquartered in San Francisco, California. It provides customer relationship management software and applications focused on sales, customer service, marketing automation, analytics, and application development.
+
 Problem Statments:
+
 Opportunity Dashboard KPI's
 -Expected Amount
 -Active Opportunities
